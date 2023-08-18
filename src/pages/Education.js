@@ -24,7 +24,7 @@ const Education = () => {
           <Accordion.Item eventKey="1">
             <Accordion.Header><span className='fw-bold m-2'>PHINMA UPang College Urdenata</span>| Year 2019</Accordion.Header>
             <Accordion.Body>
-              Mc Arthur Highway, Nancayasan, Urdaneta,Pangasinan
+              Mc Arthur Highway, Nancayasan, Urdaneta City,Pangasinan
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="2">

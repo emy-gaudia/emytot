@@ -9,6 +9,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const Home = () => {
   return (
+    <>
     <section>
        <AnimatePresence>
           <motion.div
@@ -83,6 +84,7 @@ organizational skills.
       </motion.div>
       </AnimatePresence>
     </section>
+    </>
   );
 };
 

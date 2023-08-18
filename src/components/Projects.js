@@ -9,7 +9,7 @@ const Projects = () => {
             <Image src="/cite.png" className='w-100 h-100 object-fit-cover' fluid/>
           </div>
           <Carousel.Caption>
-            <h3 className='bg-dark rounded'>CUTE Events</h3>
+            <h3 className='bg-dark rounded'>CITE Events</h3>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -25,7 +25,7 @@ const Projects = () => {
             <Image src="/mentalhealth.png" className='w-100 h-100 object-fit-cover' fluid/>
           </div>
           <Carousel.Caption>
-            <h3 className='bg-dark rounded'>Mental Health</h3>
+            <h3 className='bg-dark rounded'>BOH (Be you Own Hope)</h3>
           </Carousel.Caption>
       </Carousel.Item>
   </Carousel>

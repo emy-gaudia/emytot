@@ -7,6 +7,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const Work = () => {
   return (
+    <>
     <AnimatePresence>
       <motion.div
         initial={{ opacity:0, y:15}}
@@ -30,7 +31,7 @@ const Work = () => {
                 <p>Tech Stack: JAVA </p>
               </li>
               <li>
-                <h4 className='fw-bold'>Mental Health</h4>
+                <h4 className='fw-bold'>BOH (Be you Own Hope)</h4>
                 <p>Tech Stack: BOOTSTRAP, JAVASCRIPE,PHP,C#,HTML,CSS</p>
               </li>
             </ul>
@@ -42,6 +43,7 @@ const Work = () => {
         </Container>
       </motion.div>
     </AnimatePresence>
+    </>
   );
 };
 
